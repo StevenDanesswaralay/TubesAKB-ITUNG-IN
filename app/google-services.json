@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885988608638",
+    "project_id": "hitungin-65819",
+    "storage_bucket": "hitungin-65819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885988608638:android:fc96c4c68001d8ad7e662f",
+        "android_client_info": {
+          "package_name": "com.example.utstubes_if2_10118078_stevendanesswaralay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885988608638-bahes1a6oi4atrv3mvi63l2tk3smbk3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPie0ws_sSeMb-wN46WGLf4usYyAISU8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885988608638-bahes1a6oi4atrv3mvi63l2tk3smbk3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
